@@ -280,7 +280,7 @@ def main():
     
     # GRAPH THE MODEL'S ACCURACY
     
-    visualize_Model(Y_test, Y_test_predictions)
+    #visualize_Model(Y_test, Y_test_predictions)
     
     # CREATE SUBMISSION
     
